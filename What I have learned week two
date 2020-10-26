@@ -1,0 +1,10 @@
+
+
+I learned  return  function  is a value that a function returns to the calling script or function when it completes its task. A return value can be any one of the four variable types: handle, integer, object, or string. The type of value your function returns depends largely on the task it performs.
+
+
+
+I learned FizzBuzz which is a programming language for a interview for developers.
+
+
+I also learned that function return, which is function that calls script or function when completes its task. It could be one of the fallowing: handle, integer, object, or string. 
